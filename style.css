@@ -1,0 +1,29 @@
+.btn {
+  color: black;
+  font-size: 1rem;
+}
+
+.counter-value {
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 3rem;
+}
+.card-shadow{
+  box-shadow: 10px 10px 5px #888888;
+}
+
+input {
+  width: 5rem;
+  height: 2rem;
+  font-size: 1rem;
+}
+
+.app-title{
+  color: orange;
+  text-align: center;
+
+}
+
+.change {
+  margin: 1rem 0;
+}
